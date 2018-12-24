@@ -42,6 +42,8 @@
     <description>libsvm ported to Java</description>
     <url>https://github.com/chen0040/java-libsvm</url>
 
+
+    <!-- SZavrak -->
     <distributionManagement>
         <repository>
             <id>internal</id>
